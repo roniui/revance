@@ -1,16 +1,18 @@
-# ReVanced Magisk Module
+# Morphe apks builder
 [![Latest Version](https://img.shields.io/github/v/release/roniui/revance?style=flat-square&color=blue&label=Release)](https://github.com/roniui/revance/releases/latest)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
 
-Extensive ReVanced builder  
+  
+Morphe Patches are based off the prior work of [ReVanced](https://github.com/ReVanced/revanced-patches).
 
 Get the [latest CI release](https://github.com/roniui/revance/releases).
 
+**This repo releases only non-root apks**
 
 <details><summary><big>Features</big></summary>
 <ul>
- <li>Support all present and future <a href="https://github.com/MorpheApp/morphe-patches">Morphe</a> apps</li>
- <li> Can build non-root APKs</li>
+ <li>Support all present and future <a href="https://github.com/MorpheApp/morphe-patches">Morphe</a> patches</li>
+ <li> Can build modules and APKs</li>
  <li> Updated with the latest versions of patches</li>
  <li> Optimize APKs and modules for size</li>
  
